@@ -1,4 +1,4 @@
-STM32 Logic Analyzer – Bare-Metal + Python Visualization
+STM32 Logic Analyzer – Bare-Metal + Python Visualization.
 
 This project is a simple yet powerful experiment in building a mini logic analyzer using an STM32 microcontroller programmed entirely at the register level (no HAL, no CubeMX) and visualizing the captured data in real time using Python and Matplotlib.
 
