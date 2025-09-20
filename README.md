@@ -9,7 +9,7 @@ The STM32 toggles one output pin (PA5) rapidly, while reading the state of anoth
 
 A Python script running on the PC receives this data and plots it as a digital waveform. This makes it possible to visualize signal behavior, transitions, and timing patterns without needing expensive test equipment.
 
-Hardware setup:-
+**Hardware setup**:-
 1. STM32 Nucleo-F401RE development board
 2. PA5 configured as output for square-wave generation
 3. PA0 configured as digital input for sampling
